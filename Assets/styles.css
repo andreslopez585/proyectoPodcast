@@ -1,0 +1,54 @@
+body{
+    min-width: 100vh;
+    margin: 0px;
+  
+  }
+
+  .imagen1{
+      
+      line-height: 10px;
+  }
+.encabezado{
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom:300px;
+float:right;
+text-decoration: none;
+
+}
+.titulo1{
+
+    font-size: 64px;
+    color: #060A24;
+    letter-spacing: 0;
+    margin-bottom: auto;
+    text-align:center;
+font-family: "IBMPlexSans", sans-serif;
+   }
+
+   .texto1{
+margin: 10px;
+height: 15px;
+color: black;
+padding: 10px;
+padding-right: 10px;
+text-align:center;
+
+   }
+.episodios{
+   color: white;
+    position: relative;
+    height: 300px;
+    width: 2000px;
+    background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+}
+
+.conoce{
+    margin: 100px;
+    width: 170px;
+    height: 40px;
+    color:black;
+    background:#00F3BB;
+
+
+}
